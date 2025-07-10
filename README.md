@@ -1,6 +1,7 @@
 # Payroll Management System
 
 A full-stack web application designed to manage employee payrolls efficiently. This system allows HR/admins to handle employee details, attendance, salary generation, and payslip management in an organized and automated manner.
+
 🚀 Deployment Links
 🔗 https://payroll-system-jp4s.onrender.com
 
